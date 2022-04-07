@@ -29,5 +29,10 @@ let sum=0;
 for(i=1;i<100;i++){
     sum=sum+i
 }
+document.write(sum,"<br>");
 
-document.write(sum,"<br>")
+
+// adini ekrana 10 defe yazdir.
+for(i=0;i<10;i++){
+    document.write("il","<br>")
+}
