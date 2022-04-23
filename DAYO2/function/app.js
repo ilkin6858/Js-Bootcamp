@@ -56,10 +56,10 @@ function exam(viza,final){
     let netice=Number(viza*0.4+final*0.4);
 
     if(netice >= 51){
-        document.write("imtahandan kecmisiniz:"+netice,"<br>")
+        document.write("imtahandan kecmisiniz:"+netice,"<br>");
     }
     else{
-        document.write("imtahandan kesildiniz:"+netice,"<br>")
+        document.write("imtahandan kesildiniz:"+netice,"<br>");
     }
 }
 
